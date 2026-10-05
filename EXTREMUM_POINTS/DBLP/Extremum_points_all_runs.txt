@@ -1,0 +1,14 @@
+EXTREMUM POINTS - ALL RUNS TOGETHER - DBLP
+Dataset;DBLP
+Source folder;EACH_RUN_PARETO_ONLY
+
+Instance;Objective1_Min;Objective1_Max;Objective2_Min;Objective2_Max
+m_4_instance_1;1005;35000;0.003556;0.04634
+m_6_instance_1;2001;66000;1.467e-05;0.003195
+m_8_instance_1;7003;135000;3.334e-08;0.0001262
+m_10_instance_1;11000;190000;1.029e-12;2.076e-08
+m_12_instance_1;18000;276000;8.893e-15;7.554e-09
+m_14_instance_1;8002;377000;2.287e-16;2.914e-08
+m_16_instance_1;6000;524000;4.933e-21;1.369e-11
+m_18_instance_1;20000;627000;5.283e-24;5.035e-14
+m_20_instance_1;18000;805000;1.757e-26;4.413e-15

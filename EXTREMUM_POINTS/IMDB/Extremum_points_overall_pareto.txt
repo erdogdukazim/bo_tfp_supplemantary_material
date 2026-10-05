@@ -1,0 +1,14 @@
+EXTREMUM POINTS - OVERALL PARETO - IMDB
+Dataset;IMDB
+Source folder;OVERALL_RUNS_PARETO_ONLY
+
+Instance;Objective1_Min;Objective1_Max;Objective2_Min;Objective2_Max
+m_4_instance_1;0.952;108.1;0.01386;0.5629
+m_6_instance_1;8.886;304.5;2.484e-06;0.0007412
+m_8_instance_1;11.84;579.7;2.368e-08;0.0002291
+m_10_instance_1;11.84;752.4;3.505e-10;0.000135
+m_12_instance_1;11.84;1125;2.946e-12;3.437e-05
+m_14_instance_1;15.16;1379;1.727e-14;4.1e-06
+m_16_instance_1;22.67;1891;2.278e-17;1.953e-08
+m_18_instance_1;33.49;2442;2.839e-18;1.247e-08
+m_20_instance_1;33.53;3165;4.218e-21;2.634e-09

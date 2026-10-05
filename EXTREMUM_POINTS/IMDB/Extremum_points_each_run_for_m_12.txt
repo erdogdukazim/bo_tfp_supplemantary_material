@@ -1,0 +1,16 @@
+EXTREMUM POINTS - EACH SEPARATE RUN - IMDB - m_12_instance_1
+Dataset;IMDB
+Instance;m_12_instance_1
+Source folder;EACH_RUN_PARETO_ONLY
+
+Run;Objective1_Min;Objective1_Max;Objective2_Min;Objective2_Max
+Run 1;11.84;1185;2.946e-12;2.763e-05
+Run 2;11.84;1168;2.946e-12;2.855e-05
+Run 3;11.84;1054;2.946e-12;2.84e-05
+Run 4;11.84;1046;2.946e-12;3.258e-05
+Run 5;11.84;1057;2.946e-12;3.032e-05
+Run 6;11.84;1176;2.499e-12;3.071e-05
+Run 7;11.84;1155;1.759e-12;2.872e-05
+Run 8;11.84;1125;1.759e-12;2.892e-05
+Run 9;11.84;1047;2.946e-12;3.437e-05
+Run 10;11.84;1137;2.946e-12;2.759e-05
