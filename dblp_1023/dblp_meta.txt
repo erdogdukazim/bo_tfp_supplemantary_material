@@ -1,0 +1,14 @@
+Number of selected people
+1023
+Number of people in full skill matrix
+12855
+Number of skills
+58
+Skills file path
+src/data/dblp/dblpskills58.txt
+Distances file path
+src/data/dblp/dblpNoOfPubAndDistance58.txt
+Selected authors file path
+src/data/dblp/selected_authors.txt
+instances file path
+src/data/dblp/dblp_instance_information.txt

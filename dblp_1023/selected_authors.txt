@@ -1,0 +1,1024 @@
+selection_order	original_id	author_name	global_rank	number_of_connections	number_of_publications	number_of_skills
+1	v12793	Philip S. Yu	1	146	1095	1
+2	v11513	Jiawei Han 0001	3	124	829	1
+3	v11308	Christos Faloutsos	6	104	578	2
+4	v12184	Jian Pei	14	88	337	1
+5	v12781	Jeffrey Xu Yu	23	82	437	1
+6	v9195	Qiang Yang 0001	24	81	449	5
+7	v12711	Haixun Wang	35	76	241	1
+8	v12354	Alexander J. Smola	41	72	267	1
+9	v12579	Jie Tang	48	71	400	3
+10	v10660	Lei Zhang	65	65	858	2
+11	v11124	Lei Chen 0002	77	61	356	2
+12	v235	Yi Chang	87	58	142	1
+13	v3908	Jun Zhang	89	58	859	11
+14	v11837	Xuemin Lin	92	58	302	8
+15	v6871	Xindong Wu	111	54	410	1
+16	v10857	Charu C. Aggarwal	162	49	364	2
+17	v1987	Wang-Chien Lee	170	48	288	1
+18	v12127	M. Tamer Özsu	176	48	247	1
+19	v12803	Xifeng Yan	182	47	160	1
+20	v6343	Wei Fan	187	46	301	1
+21	v9475	Hong Cheng	190	46	220	2
+22	v12853	Zhi-Hua Zhou	198	46	446	1
+23	v11672	Hans-Peter Kriegel	284	40	413	5
+24	v10116	Huan Liu	302	39	465	1
+25	v10311	Le Song	303	39	165	1
+26	v3408	Jianyong Wang	343	37	130	2
+27	v8155	Chengqi Zhang	398	35	328	1
+28	v11766	Bing Liu 0001	439	34	208	1
+29	v1930	Longbing Cao	445	33	279	1
+30	v4702	Yizhou Sun	448	33	108	1
+31	v8669	Zhen Liu	459	33	426	2
+32	v3052	Lisa Fleischer	485	32	75	2
+33	v6370	Jimeng Sun	488	32	154	2
+34	v11108	Jiannong Cao	546	31	613	2
+35	v12152	Calton Pu	558	31	336	2
+36	v12763	Wei Wang 0009	588	30	151	1
+37	v10709	Bin Wu	617	29	503	1
+38	v12421	Jaideep Srivastava	637	29	271	5
+39	v136	Liang Chen	643	28	493	1
+40	v640	Jianmin Wang 0001	646	28	233	1
+41	v3618	Xingquan Zhu	652	28	224	3
+42	v7724	Jing Gao	664	28	206	1
+43	v9603	Xi Zhang	668	28	530	1
+44	v11676	Irwin King	685	28	264	1
+45	v4244	Hadas Shachnai	720	27	127	2
+46	v7118	Ching-Yung Lin	729	27	131	3
+47	v11838	Ling Liu 0001	759	27	284	6
+48	v12759	Wei Wang 0010	771	27	164	3
+49	v5594	Bolin Ding	784	26	56	1
+50	v11748	Vipin Kumar	816	26	343	2
+51	v12044	Weiyi Meng	818	26	142	3
+52	v11669	George Karypis	877	25	233	6
+53	v9471	Yun Chi	931	24	69	4
+54	v12854	Zhongfei Zhang	966	24	195	1
+55	v170	Rui Chen	1044	22	211	1
+56	v4468	Han Liu	1065	22	181	2
+57	v6210	Shuigeng Zhou	1080	22	217	3
+58	v6539	Arthur Gretton	1086	22	114	2
+59	v11883	Xiaoli Li 0001	1135	22	113	1
+60	v12778	Clement T. Yu	1153	22	237	1
+61	v1921	Hong Mei	1165	21	294	1
+62	v12840	Ning Zhong 0001	1352	20	336	1
+63	v7702	Mark S. Squillante	1404	19	119	1
+64	v8323	Spiros Papadimitriou	1409	19	62	2
+65	v9859	Li Zhang 0002	1428	19	85	7
+66	v11660	Eamonn J. Keogh	1454	19	221	3
+67	v12327	Sanjay Ranka	1465	19	219	2
+68	v885	Hiroshi Motoda	1480	18	188	3
+69	v6349	Aris Anagnostopoulos	1522	18	46	2
+70	v11295	Tina Eliassi-Rad	1561	18	70	1
+71	v11778	Claudio Lucchese	1573	18	103	1
+72	v12727	Ke Wang 0001	1601	18	100	2
+73	v4187	Joel L. Wolf	1637	17	76	1
+74	v7398	Jiong Yang	1671	17	100	1
+75	v8653	Feida Zhu	1680	17	88	1
+76	v12785	Jun Yang 0001	1743	17	88	1
+77	v52	See-Kiong Ng	1747	16	92	1
+78	v602	Cecilia M. Procopiuc	1757	16	40	4
+79	v695	Xiangnan Kong	1758	16	72	1
+80	v1162	Karsten M. Borgwardt	1766	16	74	3
+81	v11218	Fred Douglis	1886	16	98	2
+82	v11521	Kirsten Hildrum	1893	16	33	1
+83	v12745	Raymond Chi-Wing Wong	1933	16	104	3
+84	v10543	Bo Long	2068	15	31	1
+85	v6612	David Grangier	2219	14	34	1
+86	v9630	Binxing Fang	2254	14	161	2
+87	v10346	Zhifeng Hao	2263	14	132	2
+88	v766	Lei Tang	2346	13	106	2
+89	v3466	Xia Hu	2380	13	86	1
+90	v4809	Ying Ding	2402	13	169	1
+91	v8534	Hucheng Zhou	2481	13	26	2
+92	v9519	Wee Sun Lee	2497	13	113	1
+93	v10099	Wen-Chih Peng	2508	13	136	1
+94	v10448	Jian Yin	2515	13	146	2
+95	v10501	Kun Zhang	2517	13	183	3
+96	v11449	Robert L. Grossman	2543	13	126	1
+97	v12425	Jia-Guang Sun	2574	13	211	1
+98	v4587	Ruofei Zhang	2662	12	42	2
+99	v9235	Yongxin Tong	2759	12	43	1
+100	v3256	Chuan Li	2924	11	109	1
+101	v3841	Rajesh Bordawekar	2938	11	59	1
+102	v11135	Ming-Syan Chen	3141	11	380	13
+103	v739	Yiping Ke	3210	10	46	1
+104	v3065	Shaoxu Song	3250	10	45	2
+105	v4887	Hui-I Hsiao	3296	10	32	1
+106	v5489	Sanghyun Park	3309	10	137	1
+107	v6978	Jiefeng Cheng	3343	10	29	1
+108	v8063	Sheng Ma	3366	10	100	1
+109	v9587	Jianhui Chen	3397	10	74	1
+110	v12800	Xiaowei Yang	3495	10	106	3
+111	v1627	Lifang He	3553	9	44	1
+112	v1650	Chaokun Wang	3555	9	86	3
+113	v2186	Chao Liu 0001	3574	9	23	2
+114	v3227	Gabriel Pui Cheong Fung	3589	9	39	2
+115	v3538	Jia Wu	3604	9	116	5
+116	v3655	Bhuvan Bamba	3607	9	25	1
+117	v4173	Olfa Nasraoui	3627	9	129	1
+118	v10872	Henrique Andrade	3840	9	53	1
+119	v12508	Salvatore J. Stolfo	3900	9	160	2
+120	v516	Deepak Rajan	3936	8	26	2
+121	v3294	Gang Luo	4013	8	93	1
+122	v3404	Yan Jia	4023	8	124	1
+123	v6731	Yiming Ma	4157	8	44	1
+124	v7444	Eric Bouillet	4184	8	46	1
+125	v7943	Jay Sethuraman	4205	8	56	2
+126	v10081	Shirui Pan	4299	8	36	1
+127	v4776	Ah-Hwee Tan	4617	7	156	1
+128	v4987	Arif Merchant	4632	7	68	3
+129	v7675	Sihong Xie	4768	7	47	1
+130	v8981	Anton Riabov	4832	7	44	5
+131	v704	Ann B. Ragin	5050	6	18	3
+132	v1747	Bokai Cao	5114	6	28	2
+133	v7374	Chuan Shi	5440	6	71	3
+134	v9153	Yabo Xu	5570	6	31	1
+135	v11177	Vittorio Castelli	5678	6	59	1
+136	v1274	Xiaochen Zhu	5845	5	10	1
+137	v5959	Xiaoxiao Shi	6155	5	25	1
+138	v6792	Xiaoyun Wu	6215	5	27	2
+139	v10932	Ana L. C. Bazzan	6505	5	169	1
+140	v11667	Gail E. Kaiser	6545	5	175	1
+141	v2426	Xiaokai Wei	6815	4	17	1
+142	v3099	Quanyuan Wu	6873	4	73	1
+143	v3761	Yuchen Zhao	6946	4	24	1
+144	v12802	Xiaoxin Yin	7683	4	32	4
+145	v6311	Wangqun Lin	8412	3	8	1
+146	v11133	Michele Colajanni	8947	3	130	2
+147	v4953	Leon Stenneth	9724	2	14	1
+148	v12117	Beng Chin Ooi	5	108	326	5
+149	v11190	AnHai Doan	78	61	105	1
+150	v4704	Yang Li	82	59	785	2
+151	v8568	Umeshwar Dayal	112	54	268	2
+152	v12815	ChengXiang Zhai	121	53	308	4
+153	v4280	Zheng Chen	123	52	304	1
+154	v12552	Anthony K. H. Tung	133	52	135	2
+155	v11559	Thomas S. Huang	148	50	947	1
+156	v890	Xing Xie 0001	169	48	227	1
+157	v9110	Min Li	189	46	441	1
+158	v3539	Jiebo Luo	212	44	388	1
+159	v12158	David A. Padua	310	39	200	2
+160	v759	Tong Zhang 0001	342	37	175	3
+161	v10514	Rui Li	350	37	383	1
+162	v11829	Laks V. S. Lakshmanan	355	37	246	4
+163	v11859	Qi Li	376	36	511	2
+164	v11078	Deng Cai	433	34	176	1
+165	v9854	Jun Yan	461	33	304	2
+166	v10306	Chao Zhang	465	33	541	2
+167	v11568	Xiaofei He	474	33	180	4
+168	v2820	Ke Wang	564	30	345	2
+169	v7411	Qiang Wang	604	29	453	1
+170	v11117	Kevin Chen-Chuan Chang	620	29	111	11
+171	v12254	Dan Roth	636	29	310	1
+172	v6928	Yixin Chen	727	27	214	3
+173	v7795	Xin Jin	731	27	367	3
+174	v8110	Gang Wang	732	27	395	4
+175	v11282	Martin Ester	750	27	147	2
+176	v12555	Bhavani M. Thuraisingham	768	27	400	1
+177	v12735	Marianne Winslett	828	26	295	1
+178	v11946	Heikki Mannila	879	25	202	6
+179	v9876	David Lo	932	24	281	6
+180	v11220	Guozhu Dong	946	24	153	3
+181	v4023	Qiaozhu Mei	983	23	115	1
+182	v4579	Murat Kantarcioglu	1067	22	198	1
+183	v5008	Meichun Hsu	1175	21	144	1
+184	v10458	Liangliang Cao	1210	21	110	2
+185	v11195	Chris H. Q. Ding	1216	21	232	2
+186	v3803	Jae-Gil Lee 0001	1267	20	56	1
+187	v11688	Latifur Khan	1327	20	245	6
+188	v11997	Prasant Mohapatra	1331	20	340	1
+189	v5030	Aditya G. Parameswaran	1384	19	90	2
+190	v9613	Yu Zheng 0004	1424	19	81	3
+191	v12097	Raymond T. Ng	1462	19	161	1
+192	v12682	Benjamin W. Wah	1599	18	231	1
+193	v9003	Hwanjo Yu	1683	17	105	1
+194	v956	Chi Wang 0001	1761	16	54	1
+195	v2819	Ling Liu	1782	16	249	2
+196	v7141	Jingjing Wang	1827	16	137	1
+197	v8418	Yue Lu	1841	16	161	1
+198	v8591	Dong Xin	2039	15	43	1
+199	v10391	Samuel P. Midkiff	2066	15	101	2
+200	v10413	Xiangyu Zhang	2067	15	187	1
+201	v11887	Ying Lu	2101	15	143	1
+202	v2748	Peixiang Zhao	2166	14	30	1
+203	v5498	Klara Nahrstedt	2197	14	437	1
+204	v6284	Zhijun Yin	2213	14	25	1
+205	v8817	Kuansan Wang	2245	14	54	2
+206	v9465	Rui Ma	2251	14	117	2
+207	v118	Ding Zhou	2332	13	24	1
+208	v8263	Ming Zhang 0004	2473	13	117	1
+209	v11416	Manish Gupta 0001	2540	13	45	1
+210	v580	Hongning Wang	2597	12	42	1
+211	v5525	Cindy Xide Lin	2685	12	20	3
+212	v6996	Duo Zhang	2715	12	44	1
+213	v4068	Lu Liu	2945	11	226	1
+214	v9028	Tianyi Wu	3074	11	17	1
+215	v10329	Bo Zhao 0001	3108	11	30	1
+216	v11137	Nick Cercone	3142	11	224	3
+217	v258	Yintao Yu	3200	10	11	5
+218	v11700	Min-Soo Kim 0002	3467	10	28	5
+219	v12101	Shojiro Nishio	3481	10	378	1
+220	v50	Qiming Chen	3500	9	105	1
+221	v926	Bülent Yener	3534	9	92	1
+222	v3429	W. Scott Spangler	3600	9	38	3
+223	v3678	Zhenhui Li	3609	9	44	1
+224	v8104	Wei Shen	3763	9	129	1
+225	v8265	Tim Weninger	3769	9	58	1
+226	v11139	Nitesh V. Chawla	3850	9	188	1
+227	v376	Cuiping Li	3926	8	82	1
+228	v1117	Honglei Zhuang	3957	8	17	2
+229	v1197	Xiuli Ma	3959	8	40	3
+230	v3723	William A. Wallace	4036	8	96	1
+231	v10322	Changsung Kang	4898	7	21	1
+232	v2547	Diego Klabjan	5159	6	83	1
+233	v8376	Jie Yu 0001	5516	6	37	1
+234	v9181	Dhiraj Joshi	5571	6	47	2
+235	v262	Andrey Del Pozo	5780	5	4	1
+236	v11097	Hasan Çam	6517	5	61	6
+237	v1076	Wei Zhang 0056	6692	4	9	1
+238	v8768	Bin He 0001	7405	4	27	1
+239	v8986	Jianbin Huang	7429	4	37	2
+240	v1727	George Brova	7878	3	5	1
+241	v3691	Jeff Pasternack	8105	3	8	1
+242	v11225	Jack J. Dongarra	4	114	760	3
+243	v12463	Michael Stonebraker	17	87	333	1
+244	v11594	H. V. Jagadish	20	84	300	4
+245	v10903	Rakesh Agrawal	21	83	232	1
+246	v11718	Ravi Kumar 0001	22	82	253	2
+247	v11681	Jon M. Kleinberg	29	78	269	4
+248	v10851	Anastasia Ailamaki	57	67	219	1
+249	v12528	Timos K. Sellis	69	65	285	6
+250	v4610	Eric P. Xing	124	52	333	2
+251	v12548	Andrew Tomkins	177	48	110	1
+252	v11473	Zoubin Ghahramani	192	46	267	4
+253	v11823	Jure Leskovec	242	43	231	2
+254	v12617	Yufei Tao	315	39	178	3
+255	v7823	Myron Flickner	346	37	48	1
+256	v12611	Vassilis J. Tsotras	415	35	169	2
+257	v1713	Lei Li	417	34	447	1
+258	v11439	Phillip B. Gibbons	473	33	194	6
+259	v5075	David A. Bader	530	31	202	1
+260	v11769	Charles E. Leiserson	553	31	109	3
+261	v8919	Aydin Buluç	611	29	59	2
+262	v11402	John R. Gilbert	623	29	90	1
+263	v4827	Carlos Guestrin	654	28	151	2
+264	v12048	Yannis Manolopoulos	763	27	350	7
+265	v12164	Dimitris Papadias	765	27	166	3
+266	v11390	Garth A. Gibson	950	24	115	1
+267	v11665	Flip Korn	954	24	59	2
+268	v12278	Kenneth A. Ross	960	24	162	4
+269	v12358	Ambuj K. Singh	961	24	196	9
+270	v12600	Sebastian Thrun	1039	23	305	1
+271	v1698	Andrew Lumsdaine	1052	22	198	1
+272	v12374	Bernhard Seeger	1146	22	116	2
+273	v11084	Deepayan Chakrabarti	1214	21	52	2
+274	v11752	Yannis Kotidis	1328	20	96	2
+275	v12437	Katia P. Sycara	1342	20	388	3
+276	v3555	Jeremy Kepner	1367	19	118	3
+277	v4330	Jialie Shen	1378	19	118	1
+278	v11914	Dimitris N. Metaxas	1460	19	447	1
+279	v6593	Timothy G. Mattson	1525	18	59	1
+280	v7678	Petros Drineas	1530	18	106	2
+281	v11484	Bruce Hendrickson	1565	18	72	1
+282	v11758	Alexandros Labrinidis	1572	18	107	1
+283	v12595	Peter Triantafillou	1596	18	116	1
+284	v1040	Duen Horng Chau	1614	17	97	3
+285	v5280	Stephan Günnemann	1650	17	81	1
+286	v9589	Partha P. Talukdar	1861	16	65	1
+287	v11509	Jason I. Hong	2092	15	125	2
+288	v12304	Nick Roussopoulos	2117	15	126	4
+289	v4110	Prithwish Basu	2181	14	88	2
+290	v9841	Ananthram Swami	2257	14	296	1
+291	v11332	Michalis Faloutsos	2285	14	170	1
+292	v12789	Masatoshi Yoshikawa	2327	14	183	3
+293	v648	B. Aditya Prakash	2344	13	62	1
+294	v7641	Ziv Bar-Joseph	2462	13	66	1
+295	v4832	David D. Jensen	2668	12	82	3
+296	v10729	Marcos R. Vieira	2789	12	38	1
+297	v11531	Martial Hebert	2822	12	328	3
+298	v11675	Hiroyuki Kitagawa	2824	12	233	6
+299	v12543	Yasushi Sakurai	2861	12	59	1
+300	v3873	Brian Gallagher	2939	11	39	1
+301	v7958	Alex Beutel	3054	11	37	2
+302	v2189	Bruno Ribeiro 0001	3240	10	57	1
+303	v9591	Konstantinos Pelechrinis	3398	10	71	1
+304	v9856	Ioannis Koutis	3404	10	43	2
+305	v10944	Christian Böhm	3433	10	127	1
+306	v1716	U. Kang	3558	9	76	3
+307	v10661	Brendan Meeder	3834	9	10	2
+308	v12558	Caetano Traina Jr.	3902	9	233	2
+309	v3797	Pedro O. S. Vaz de Melo	4038	8	57	4
+310	v4634	Wolfgang Gatterbauer	4072	8	51	2
+311	v6493	Fan Guo	4146	8	37	1
+312	v7418	Sang-Wook Kim	4181	8	215	4
+313	v11761	Antonio Alfredo Ferreira Loureiro	4360	8	331	5
+314	v12549	Agma J. M. Traina	4402	8	242	1
+315	v4008	Smriti Bhagat	4582	7	26	1
+316	v7406	Eirinaios Michelakis	4757	7	8	1
+317	v12317	Ronald Rosenfeld	4984	7	66	6
+318	v12489	Ramakrishnan Srikant	4993	7	52	1
+319	v3775	Matthew Hurst	5236	6	30	1
+320	v9191	Ibrahim Kamel	5572	6	75	1
+321	v1741	Renato Assunção	6753	4	40	2
+322	v2459	Inah Jeon	6817	4	5	2
+323	v4831	Petko Bogdanov	7049	4	23	2
+324	v7920	Huiming Qu	7339	4	12	1
+325	v9765	Anil Kumar	7501	4	134	2
+326	v1499	Alceu Ferraz Costa	7855	3	10	1
+327	v1783	Srijan Kumar	7884	3	24	1
+328	v2723	Hahn-Ming Lee	8012	3	83	1
+329	v5397	Ahmed Metwally	8293	3	22	1
+330	v6680	Shashank Pandit	8465	3	6	1
+331	v10675	Samuel Wang	8911	3	2	1
+332	v1596	Nikou Günnemann	9238	2	8	1
+333	v7503	Claudia Plant	10026	2	86	1
+334	v5251	Ke Yi	80	60	123	2
+335	v11371	C. Lee Giles	91	58	424	2
+336	v12717	Ji-Rong Wen	142	51	170	2
+337	v757	Chun Chen	144	50	422	2
+338	v9269	Hang Li	159	49	305	4
+339	v737	Enhong Chen	319	38	251	1
+340	v4269	Xiaokui Xiao	322	38	114	2
+341	v11613	Rong Jin	334	38	327	3
+342	v11411	Lise Getoor	406	35	231	3
+343	v9162	Chen Wang	427	34	420	1
+344	v3689	Yunhao Liu	446	33	426	1
+345	v2939	Prasenjit Mitra	520	31	207	2
+346	v5977	Jiajun Bu	531	31	326	1
+347	v10728	Wenjie Zhang	543	31	167	1
+348	v12732	Limsoon Wong	640	29	212	1
+349	v9061	Shenghuo Zhu	739	27	128	1
+350	v12760	Wei Wang 0011	772	27	114	3
+351	v1709	Ying Zhang 0001	838	25	95	2
+352	v11786	Dongwon Lee	878	25	178	2
+353	v8115	Can Wang	923	24	123	1
+354	v11518	Joshua Zhexue Huang	1023	23	154	2
+355	v289	Jinyan Li	1045	22	145	1
+356	v4879	Li Xiong 0001	1278	20	120	3
+357	v1185	Deepak Agarwal	1615	17	71	1
+358	v9173	Jun Gao	1855	16	181	3
+359	v4931	Jiannan Wang	1993	15	49	4
+360	v10986	James Bailey	2076	15	207	4
+361	v12279	Kotagiri Ramamohanarao	2115	15	363	2
+362	v5665	Lijun Chang	2200	14	60	4
+363	v2751	Bin Jiang	2366	13	319	1
+364	v5339	Ziyu Guan	2418	13	36	1
+365	v12573	Hannu Toivonen	2577	13	125	1
+366	v12772	Tao Xie 0001	2867	12	192	2
+367	v11677	Jaewoo Kang	3465	10	59	6
+368	v461	Lei Duan	3519	9	56	2
+369	v3058	Aparna S. Varde	3587	9	53	1
+370	v4889	Zhen Liao	4081	8	8	2
+371	v5817	Huanhuan Cao	4659	7	29	1
+372	v2735	Xue-wen Chen 0001	5164	6	84	2
+373	v3060	Chuancong Gao	5950	5	9	1
+374	v8695	Daxin Jiang	6367	5	32	2
+375	v601	Nansheng Chen	6645	4	10	2
+376	v9224	Xuan Vinh Nguyen	7451	4	30	2
+377	v10573	Xinghuo Zeng	7573	4	3	1
+378	v12812	Bin Zhou 0002	7684	4	13	3
+379	v3950	Davor Cubranic	8126	3	17	1
+380	v5812	Ismael A. Vergara	8350	3	3	3
+381	v8640	Dong-Wan Choi	8681	3	15	2
+382	v9522	Kathleen Tsoukalas	8787	3	2	1
+383	v11535	Ming Hua	8958	3	22	1
+384	v2763	Emad Soroush	9446	2	12	2
+385	v12845	Xiaofang Zhou	32	77	387	2
+386	v12584	Kian-Lee Tan	52	69	399	2
+387	v12808	Aoying Zhou	109	55	349	2
+388	v4177	Yanchun Zhang	171	48	300	1
+389	v11947	Ioana Manolescu	243	43	148	1
+390	v12835	Mohammed J. Zaki	258	42	208	2
+391	v9346	Yong Wang	278	40	834	2
+392	v2796	Jianzhong Li	294	39	385	1
+393	v9810	Reynold Cheng	349	37	120	3
+394	v11774	Chengfei Liu	410	35	195	1
+395	v10295	Wenfei Fan	464	33	165	2
+396	v3665	Nan Tang 0001	525	31	57	1
+397	v11697	Masaru Kitsuregawa	686	28	360	2
+398	v11483	Bingsheng He	753	27	209	1
+399	v11810	Jianxin Li	756	27	147	1
+400	v8212	Ruoming Jin	793	26	116	1
+401	v5690	Xiaoyong Du	915	24	229	1
+402	v654	James Cheng	1160	21	108	1
+403	v5919	Ge Yu 0001	1179	21	149	2
+404	v726	Byron Choi	1250	20	75	1
+405	v11556	Theo Härder	1326	20	271	2
+406	v764	Yang Zhou	1357	19	159	1
+407	v6101	Lu Qin	1519	18	89	2
+408	v10954	Denilson Barbosa	1557	18	69	3
+409	v11848	Mong-Li Lee	1575	18	192	5
+410	v5924	Yi Chen	1662	17	203	2
+411	v7138	Wook-Shin Han	1668	17	78	1
+412	v4150	Hong Gao	1800	16	227	1
+413	v11882	Xiang Lian	1900	16	75	4
+414	v12707	Geoffrey I. Webb	1932	16	176	8
+415	v10555	Yanghua Xiao	2069	15	61	1
+416	v10610	Rui Zhou 0001	2521	13	52	1
+417	v11583	Yoshiharu Ishikawa	2823	12	86	3
+418	v9050	Lei Zou 0001	3078	11	66	2
+419	v6857	Guimei Liu	3715	9	42	2
+420	v7007	Haichuan Shang	3722	9	15	2
+421	v1906	Yuanyuan Zhu	4501	7	21	1
+422	v6664	Chuan Xiao	4711	7	43	3
+423	v6703	Gaoping Zhu	5391	6	9	1
+424	v7991	Junhu Wang	5490	6	61	3
+425	v278	Chang Zhou	5781	5	20	1
+426	v11184	Zhihong Chong	6526	5	13	1
+427	v1259	Zechao Shang	6710	4	14	1
+428	v9893	Jiashuai Zhou	7515	4	7	1
+429	v10179	Dong Wen	7536	4	11	1
+430	v1836	Wentao Tian	7889	3	4	1
+431	v1272	Xianggang Zeng	9176	2	2	2
+432	v12042	Wei-Ying Ma	18	86	321	1
+433	v5314	Yong Yu	63	65	493	1
+434	v12797	Shuicheng Yan	74	63	603	1
+435	v12822	HongJiang Zhang	81	60	397	9
+436	v9872	Bin Li	160	49	757	2
+437	v10641	Qing Wang	202	45	651	2
+438	v3237	Ying Li	228	43	790	2
+439	v4994	Dong Wang	421	34	619	3
+440	v11845	Ming Li 0001	508	32	240	2
+441	v11861	Qiong Luo	510	32	116	3
+442	v11643	Craig A. Knoblock	684	28	235	1
+443	v8201	Gui-Rong Xue	734	27	79	1
+444	v9279	Ning Liu	741	27	197	1
+445	v460	Xiaoou Tang	774	26	414	2
+446	v6164	Fei Wang 0001	787	26	171	1
+447	v9606	Zhong Su	802	26	80	1
+448	v12084	Lionel M. Ni	820	26	410	2
+449	v12829	Lei Zhang 0001	965	24	154	2
+450	v9362	Xiangyang Xue	1005	23	221	1
+451	v11355	Weiguo Fan	1122	22	130	3
+452	v11726	Subbarao Kambhampati	1129	22	239	3
+453	v4527	Ivor W. Tsang	1174	21	159	1
+454	v4191	Dou Shen	1271	20	54	1
+455	v8473	Jian-Tao Sun	1413	19	53	2
+456	v11678	James T. Kwok	1455	19	179	2
+457	v2553	Bin Cao	1491	18	137	2
+458	v9004	Hua Li	1539	18	302	1
+459	v12811	Benyu Zhang	1745	17	45	4
+460	v61	Hua-Jun Zeng	1749	16	39	2
+461	v984	Yuchen Zhang	1762	16	63	2
+462	v3493	Yiming Yang	1791	16	138	1
+463	v4444	Masashi Sugiyama	1803	16	318	2
+464	v5114	Dit-Yan Yeung	1996	15	177	2
+465	v7085	Jian Hu	2226	14	86	1
+466	v7626	Yanhua Li	2234	14	71	2
+467	v3074	Hongbin Zha	2373	13	284	1
+468	v5673	Vincent Wenchen Zheng	2422	13	44	1
+469	v8349	Yansheng Lu	2476	13	90	1
+470	v9735	Jing Wu	2502	13	237	1
+471	v8111	Gang Wang 0010	2734	12	19	1
+472	v8985	Sinno Jialin Pan	2755	12	69	3
+473	v10590	Jie Yin	2783	12	92	1
+474	v10791	Charles X. Ling	2791	12	138	3
+475	v6515	Kai Zhang 0001	3011	11	42	2
+476	v8838	Weizhu Chen	3069	11	28	1
+477	v12502	Ruimin Shen	3488	10	120	2
+478	v3193	Yuchang Lu	4009	8	33	1
+479	v7761	Jilei Tian	4194	8	75	2
+480	v830	Xiao Ling	5057	6	34	4
+481	v3271	Ou Jin	5202	6	14	2
+482	v10363	Tianqi Chen	5644	6	27	1
+483	v451	Xiaochuan Ni	5792	5	10	1
+484	v3451	Wenyuan Dai	5975	5	19	1
+485	v5138	Botao Hu	6101	5	7	3
+486	v302	Hua-Yan Wang	7716	3	8	5
+487	v4286	Gao Cong	200	45	147	2
+488	v7436	Yi Zhang	215	44	637	1
+489	v8287	Kai Zheng 0001	264	41	103	1
+490	v10424	Peng Wang	329	38	625	1
+491	v6756	Cong Yu 0001	360	36	87	3
+492	v12385	Cyrus Shahabi	380	36	305	2
+493	v12739	Min Wang	381	36	373	3
+494	v12046	Xiaofeng Meng	762	27	180	4
+495	v11551	Seung-won Hwang	875	25	136	2
+496	v8493	Tao Li 0001	1002	23	273	1
+497	v6726	Jinpeng Huai	1088	22	122	1
+498	v12813	Carlo Zaniolo	1244	21	261	2
+499	v6865	Lexing Xie	1297	20	110	1
+500	v4532	Shuai Ma	1381	19	73	2
+501	v8824	Roger Zimmermann	1418	19	207	1
+502	v9394	Zhongyuan Wang	1687	17	111	1
+503	v6481	Muhammad Aamir Cheema	2006	15	61	1
+504	v8906	Liang Tang	2487	13	101	4
+505	v3151	Wei-Shinn Ku	2921	11	93	4
+506	v3954	Wentao Wu 0001	2943	11	27	1
+507	v6436	Lipyeow Lim	3007	11	44	1
+508	v12828	Kenny Q. Zhu	3193	11	51	6
+509	v4322	Ye Yuan	4063	8	148	2
+510	v4424	Mohan Yang	4068	8	20	2
+511	v7992	Min-Te Sun	4209	8	76	1
+512	v8922	Kai Zeng 0002	4251	8	19	2
+513	v12601	Shalom Tsur	4407	8	47	8
+514	v5162	Hetal Thakkar	5304	6	13	1
+515	v3211	Haiquan Chen	5961	5	24	1
+516	v8810	Min Xie 0002	7413	4	14	2
+517	v2977	Hongsong Li	8038	3	32	3
+518	v7297	Chang Luo	8529	3	12	2
+519	v1262	Zhixian Zhang	9173	2	4	1
+520	v1794	Zhirui Hu	9271	2	14	1
+521	v10562	Bernhard Schölkopf	64	65	390	4
+522	v12823	Hongyuan Zha	122	53	249	3
+523	v8682	John Langford	158	49	164	1
+524	v11011	Maria-Florina Balcan	281	40	152	3
+525	v11835	Lihong Li	336	38	117	4
+526	v7803	Peter L. Bartlett	363	36	154	2
+527	v7698	Vanja Josifovski	425	34	95	2
+528	v6796	Li Wang	453	33	552	2
+529	v6347	Anirban Dasgupta 0001	533	31	56	3
+530	v10142	Jianfeng Gao	577	30	164	3
+531	v6870	John Shawe-Taylor	602	29	253	2
+532	v9745	Kilian Q. Weinberger	669	28	93	2
+533	v7193	Ruslan Salakhutdinov	730	27	146	2
+534	v10592	Zhaohui Zheng	743	27	46	1
+535	v325	Xiaodong He	894	24	142	4
+536	v3945	Jason Weston	981	23	127	2
+537	v12660	S. V. N. Vishwanathan	1041	23	105	1
+538	v11962	Klaus-Robert Müller	1233	21	296	2
+539	v3933	Quoc V. Le	1269	20	83	1
+540	v3491	Anima Anandkumar	1366	19	141	3
+541	v8166	Chong Wang	1408	19	140	2
+542	v5102	Geoffrey J. Gordon	1647	17	130	1
+543	v5228	Nando de Freitas	1649	17	133	2
+544	v5869	Amr Ahmed	1660	17	70	2
+545	v10942	Chiranjib Bhattacharyya	1699	17	90	1
+546	v3673	John C. Platt	1793	16	71	3
+547	v6735	Cheng Soon Ong	2012	15	55	2
+548	v9986	Suvrit Sra	2063	15	96	2
+549	v1686	Li Cheng	2152	14	116	2
+550	v1717	Qirong Ho	2153	14	46	1
+551	v2324	Max Welling	2360	13	188	1
+552	v4292	Gunnar Rätsch	2392	13	110	3
+553	v5663	Martin Zinkevich	2421	13	41	2
+554	v5840	Tamás Sarlós	2427	13	28	1
+555	v11546	Ralf Herbrich	2546	13	58	2
+556	v687	Gideon Dror	2603	12	58	1
+557	v1817	Zhiting Hu	2621	12	43	2
+558	v10952	Christopher J. C. Burges	2799	12	64	3
+559	v11555	Thomas Hofmann	3158	11	115	2
+560	v9869	Markus Weimer	3405	10	23	2
+561	v10517	Kenji Fukumizu	3420	10	91	2
+562	v3893	Julian J. McAuley	3617	9	50	1
+563	v4906	Sujith Ravi	3650	9	38	1
+564	v5536	Xinhua Zhang	3673	9	79	1
+565	v6488	Shuang-Hong Yang	3705	9	31	1
+566	v8231	Thomas Gärtner	4222	8	60	1
+567	v78	Liangjie Hong	4428	7	31	1
+568	v2716	Kostas Tsioutsiouliklis	4528	7	19	1
+569	v5956	Nicol N. Schraudolph	4671	7	43	1
+570	v6798	Tibério S. Caetano	4721	7	63	2
+571	v9281	Abhimanyu Das	4843	7	29	1
+572	v9448	Yasemin Altun	4851	7	27	1
+573	v5087	Mohamed Aly	5300	6	30	1
+574	v8342	David Lopez-Paz	5512	6	19	1
+575	v9607	Josh Attenberg	5600	6	18	1
+576	v1239	Yu-Xiang Wang	5838	5	42	1
+577	v2554	Stéphane Canu	5916	5	67	1
+578	v6751	Justin Bedo	6211	5	15	3
+579	v11860	Qing Li	34	76	834	4
+580	v9857	Li Zhang	76	61	990	2
+581	v11179	Wei Chen	127	52	805	1
+582	v4596	Xiaoming Li	323	38	306	1
+583	v2883	Chao Wang	385	35	648	1
+584	v3925	Lei Shi	388	35	418	3
+585	v6907	Jeff Z. Pan	396	35	226	2
+586	v6924	Yi Li	423	34	479	1
+587	v9325	Evgeniy Gabrilovich	428	34	84	1
+588	v301	Jie Liu	517	31	493	2
+589	v11118	K. Selçuk Candan	675	28	222	2
+590	v11819	Juan-Zi Li	758	27	177	1
+591	v12832	Lizhu Zhou	831	26	150	2
+592	v11515	John E. Hopcroft	874	25	149	2
+593	v3431	Wei Wei	909	24	452	2
+594	v2818	Ning Zhang	976	23	275	1
+595	v7867	Lu Chen	998	23	128	1
+596	v11566	Wendy Hall	1127	22	227	2
+597	v8304	Guo Tong Xie	1194	21	49	1
+598	v658	Nan Jiang	1355	19	213	1
+599	v12644	Michalis Vazirgiannis	1597	18	182	5
+600	v1191	Yu-Ru Lin	1616	17	97	2
+601	v9675	Zhe Zhang	1688	17	162	3
+602	v10902	Pieter Abbeel	1878	16	217	6
+603	v7192	Ping Li 0001	2019	15	141	6
+604	v4721	Keke Cai	2189	14	27	1
+605	v9574	Quan Wang	2498	13	114	1
+606	v3642	Hang Su	2646	12	144	2
+607	v11836	Lillian Lee	2831	12	92	10
+608	v12769	Chunxiao Xing	2866	12	139	4
+609	v537	Jing Zhang 0001	2887	11	24	2
+610	v10466	Chenhao Tan	3417	10	31	2
+611	v1039	Chen Liu	3951	8	263	4
+612	v5743	Wenbin Tang	4112	8	17	3
+613	v10990	Johan Bollen	4920	7	98	1
+614	v7527	Limin Yao	5456	6	18	1
+615	v8393	Tiancheng Lou	5519	6	24	1
+616	v4184	Zhiyuan Wang	6022	5	50	1
+617	v9669	Min Cai	6422	5	47	2
+618	v10582	MingCai Hong	6486	5	5	3
+619	v7508	Dewei Chen	7309	4	6	2
+620	v2260	Jarder Luo	7939	3	4	1
+621	v7915	Yun Zhou 0004	8593	3	6	1
+622	v918	Xin Li	62	65	658	1
+623	v6837	Yan Wang	126	52	763	1
+624	v352	Jieping Ye	152	49	292	1
+625	v742	Jian Zhang	183	46	725	3
+626	v1073	Wei Zhang	184	46	900	4
+627	v4583	Bo Zhang	213	44	706	1
+628	v6790	Jia Wang	263	41	352	2
+629	v7600	Hui Li	275	40	803	1
+630	v1382	Tao Wang	293	39	539	1
+631	v5967	Jun Zhu	297	39	386	1
+632	v8186	Jing Liu	365	36	676	3
+633	v5172	Jun Luo	391	35	365	3
+634	v2167	Tao Zhang	519	31	678	1
+635	v12848	Yongdong Zhang	642	29	247	1
+636	v8443	Jinhui Tang	735	27	192	1
+637	v12771	Ke Xu	829	26	492	1
+638	v3558	Yang Cao	842	25	265	1
+639	v444	Malú Castellanos	897	24	96	1
+640	v11814	Jintao Li	1027	23	185	1
+641	v7706	Qi Guo	1405	19	130	1
+642	v7729	Xiaohong Jiang	1675	17	258	2
+643	v8781	Haesun Park	1682	17	141	1
+644	v6514	Kai Zhang	1822	16	277	4
+645	v3414	Rick Siow Mong Goh	2379	13	55	1
+646	v8314	Xiao Wu	2740	12	102	2
+647	v10159	Bo Xiao	2775	12	108	0
+648	v10205	Wangmeng Zuo	2776	12	187	3
+649	v55	Xin-Jing Wang	3197	10	41	3
+650	v6574	Seungjin Choi	3333	10	185	4
+651	v8982	Miao Wang	3786	9	98	2
+652	v9642	Mohamed Dekhil	3808	9	30	4
+653	v10382	Riddhiman Ghosh	3824	9	20	2
+654	v3524	Judy E. Scott	4560	7	59	1
+655	v6118	Tong Wang	4684	7	146	1
+656	v10230	Yap-Peng Tan	4892	7	215	1
+657	v3010	Ming Ma	5945	5	101	1
+658	v5296	Zhengjun Zhai	6110	5	23	1
+659	v7682	Zhiqiang Wang	6282	5	82	2
+660	v8243	Ligu Zhu	6331	5	16	2
+661	v8650	Guodong Wang	6364	5	75	1
+662	v3104	Yue Cheng	8055	3	32	2
+663	v381	Lin Jiang	9054	2	59	2
+664	v8889	Biswadip Ghosh	10197	2	24	1
+665	v9035	Lijuan Xu	11595	1	16	1
+666	v11592	Christian S. Jensen	28	78	432	4
+667	v10705	Hai Jin	83	59	928	2
+668	v1657	Bin Wang	135	51	732	0
+669	v8942	Yunjun Gao	367	36	112	3
+670	v12851	Yueting Zhuang	516	32	273	2
+671	v4409	Nikos Mamoulis	568	30	220	2
+672	v6471	Bin Cui 0001	570	30	138	2
+673	v11792	Feifei Li 0001	689	28	95	1
+674	v12293	Matthias Renz	886	25	143	1
+675	v128	Athman Bouguettaya	892	24	193	2
+676	v6141	Yingyi Bu	917	24	37	1
+677	v7000	Wen-Syan Li	992	23	92	1
+678	v8896	Tobias Emrich	1852	16	54	2
+679	v12139	Vincent Oria	2111	15	85	2
+680	v2721	Andreas Züfle	2165	14	79	1
+681	v9532	Xiaochun Yang	2253	14	87	1
+682	v1156	Wei Gong	3542	9	115	3
+683	v6333	Hanhua Chen	3700	9	54	1
+684	v7624	Sasu Tarkoma	3744	9	166	1
+685	v786	Yao Guo	4459	7	81	1
+686	v9257	Xiaofei Zhang	4842	7	109	1
+687	v1270	Jieying She	5088	6	18	1
+688	v1268	Caleb Chen Cao	5844	5	16	1
+689	v4801	Libin Wang	6071	5	29	1
+690	v5507	J. Stephen Downie	6126	5	99	4
+691	v5918	Xiangqun Chen	6153	5	53	1
+692	v8610	Yiming Zhang	6360	5	72	1
+693	v1813	Chen Jason Zhang	6759	4	13	1
+694	v11037	Ricardo A. Baeza-Yates	164	49	410	2
+695	v11875	Tie-Yan Liu	356	37	196	2
+696	v5855	Yiqun Liu	451	33	165	1
+697	v10499	Belle L. Tseng	495	32	91	2
+698	v8751	Ke Zhou	537	31	140	1
+699	v574	Olivier Chapelle	591	29	73	2
+700	v2215	Yan Liu	592	29	488	1
+701	v12079	Jian-Yun Nie	819	26	182	7
+702	v7689	Xuanhui Wang	996	23	48	1
+703	v9451	Ya Zhang	1006	23	132	1
+704	v4765	Fernando Diaz 0001	1277	20	78	3
+705	v6479	Wei Chu	1400	19	72	2
+706	v1010	Jiang Bian	1484	18	81	2
+707	v3835	Anlei Dong	1635	17	39	1
+708	v4476	Jing Bai	1804	16	123	1
+709	v12783	Jian Yang	1935	16	314	4
+710	v1183	Kunal Punera	1953	15	32	1
+711	v4489	Shihao Ji	2396	13	23	2
+712	v5157	Milad Shokouhi	2414	13	58	1
+713	v101	Gordon Sun	2586	12	15	1
+714	v11884	Yan Liu 0002	2833	12	58	3
+715	v7339	Jiliang Tang	3038	11	107	2
+716	v4040	Xiaofeng He	3281	10	78	2
+717	v5577	Hai Liu	3311	10	152	1
+718	v11712	Pranam Kolari	3866	9	22	7
+719	v10249	Srinivas Vadrevu	4304	8	25	4
+720	v53	Liangda Li	4425	7	14	1
+721	v6145	Hua Ouyang	5359	6	30	1
+722	v8033	Hongbo Xu	6310	5	51	1
+723	v5932	Weize Kong	7156	4	9	3
+724	v2778	Mianwei Zhou	8018	3	9	2
+725	v12397	Divesh Srivastava	13	89	336	2
+726	v1708	Ying Zhang	56	67	803	7
+727	v3183	Fan Zhang	95	57	700	1
+728	v6080	Yang Liu	110	54	948	1
+729	v4894	Jian Wang	214	44	886	1
+730	v9687	Yan Li	217	44	684	1
+731	v1087	Xin Wang	260	41	881	1
+732	v11095	Graham Cormode	304	39	196	2
+733	v11798	Guoliang Li	440	34	190	2
+734	v10226	Zhenjie Zhang	463	33	89	6
+735	v5028	Yuan Zhou	529	31	196	2
+736	v5331	Jianhua Feng	599	29	153	1
+737	v11844	Michael R. Lyu	690	28	436	5
+738	v9355	Haifeng Liu	1102	22	110	2
+739	v10639	Paul Benjamin Lowry	1434	19	109	2
+740	v12850	Zhiwen Yu	1472	19	300	1
+741	v394	Hongzhi Yin	1479	18	51	1
+742	v6547	Yin Yang	1524	18	106	1
+743	v2552	Wei Feng	2164	14	190	1
+744	v12782	Jane You	2582	13	169	1
+745	v3525	Si Wu	2929	11	102	2
+746	v4601	Yun Wang	2960	11	211	3
+747	v4774	Weimin Xu	2967	11	39	2
+748	v7280	Xiangfeng Luo	3035	11	137	3
+749	v1967	Guohui Li	3236	10	123	3
+750	v11799	Hareton K. N. Leung	3871	9	114	1
+751	v7662	Guoqiang Han	4191	8	51	3
+752	v7882	Hau-San Wong	4201	8	127	1
+753	v2684	Peinan Luo	4527	7	2	1
+754	v2794	Xiaoyu Li	5171	6	62	1
+755	v8512	Jun He 0004	5526	6	82	2
+756	v293	Jin Peng	6620	4	44	1
+757	v4862	Feiyue Ye	7053	4	41	3
+758	v5108	Daqing Wan	7080	4	37	1
+759	v8500	Jingyuan Wang	7383	4	35	1
+760	v11207	Ding-Zhu Du	1708	17	279	2
+761	v5	Guangyan Huang	1746	16	61	1
+762	v795	Xiang Zhao	2142	14	94	3
+763	v12128	Maria E. Orlowska	2303	14	138	1
+764	v10669	Zengfeng Huang	3425	10	19	2
+765	v10721	Junjie Yao	3427	10	35	1
+766	v5546	Weiren Yu	5320	6	35	1
+767	v7718	Meng Fang	5471	6	35	2
+768	v9032	Xiaoyang Wang 0002	5560	6	15	2
+769	v4902	Chengyuan Zhang	6077	5	9	4
+770	v1278	Shenlu Wang	6713	4	6	2
+771	v2004	Long Yuan	6783	4	6	1
+772	v4198	Ke Zhu	6984	4	20	1
+773	v2827	Jianye Yang	8023	3	3	3
+774	v10463	Qianlu Lin	8890	3	10	1
+775	v11264	Ahmed K. Elmagarmid	166	49	202	3
+776	v11383	Dimitrios Gunopulos	175	48	241	4
+777	v434	Yan Zhang	317	38	686	3
+778	v10968	Francesco Bonchi	466	33	184	4
+779	v3171	Feng Chen	594	29	414	1
+780	v10251	Meng Wang 0001	805	26	241	2
+781	v7149	Song Wang	993	23	307	1
+782	v9380	Yong Shi	1103	22	400	1
+783	v462	Hao Huang	1354	19	164	1
+784	v3321	Zheng-Jun Zha	1785	16	110	1
+785	v4290	Ping Chen	1801	16	244	2
+786	v4917	Jie Cao	1805	16	128	1
+787	v5129	Weiming Hu	2676	12	242	2
+788	v6053	Fei Xie	2998	11	130	4
+789	v6990	Xiaofeng Zhu	3721	9	88	2
+790	v8655	Dan He	4242	8	80	1
+791	v12765	Xintao Wu	4417	8	109	3
+792	v4619	Victor S. Sheng	4611	7	83	5
+793	v5894	Gong Chen	6152	5	55	1
+794	v7921	Chunxia Zhang	6297	5	80	5
+795	v9085	Dan A. Simovici	6388	5	131	1
+796	v11740	Taghi M. Khoshgoftaar	6547	5	445	1
+797	v4446	Zhu Zhu	7017	4	33	2
+798	v10931	Amotz Bar-Noy	369	36	234	2
+799	v12218	Srinivasan Parthasarathy 0001	479	33	215	5
+800	v12223	Themis Palpanas	697	28	115	5
+801	v2381	Mudhakar Srivatsa	975	23	125	1
+802	v5877	Jingdong Wang	1178	21	167	1
+803	v4482	Shirish Tatikonda	1504	18	29	2
+804	v12124	James B. Orlin	1727	17	140	4
+805	v5142	Guo-Jun Qi	1811	16	105	3
+806	v5155	Chandan K. Reddy	3300	10	90	4
+807	v7692	Arijit Khan	3748	9	35	1
+808	v401	Ramesh C. Agarwal	3928	8	38	2
+809	v12219	Srinivasan Parthasarathy 0002	4383	8	46	3
+810	v10732	Dakshi Agrawal	4908	7	44	1
+811	v6428	Saket Sathe	5377	6	26	2
+812	v475	Ahsanul Haque	6635	4	15	2
+813	v2682	Renjun Hu	8005	3	4	1
+814	v2128	Gewen He	9337	2	3	1
+815	v3435	Yang Song	229	43	389	2
+816	v12770	Jianliang Xu	641	29	178	2
+817	v12260	Elke A. Rundensteiner	885	25	370	2
+818	v8192	Anand Sivasubramaniam	999	23	221	1
+819	v10228	Baihua Zheng	1012	23	120	1
+820	v3700	Yuanyuan Tian	1058	22	30	1
+821	v11784	Dik Lun Lee	1132	22	165	1
+822	v12478	Peter Scheuermann	1236	21	147	1
+823	v12166	Evaggelia Pitoura	1336	20	174	2
+824	v11199	Chita R. Das	1707	17	227	3
+825	v9954	Haibo Hu	1866	16	89	1
+826	v6201	Isaac G. Councill	2002	15	27	3
+827	v7596	John Yen	2021	15	192	1
+828	v12818	Demetrios Zeinalipour-Yazti	2132	15	94	1
+829	v3204	Peng Liu 0005	2638	12	186	1
+830	v3327	Xueyan Tang	2926	11	112	3
+831	v4585	Mao Ye	2958	11	153	1
+832	v5819	Ken C. K. Lee	2992	11	56	6
+833	v3420	Huajing Li	3261	10	16	1
+834	v4027	Yang Sun	3280	10	115	1
+835	v11455	Sandeep K. S. Gupta	3456	10	171	2
+836	v4981	Takahiro Hara	3653	9	320	2
+837	v223	Chao-Hsien Chu	3918	8	54	3
+838	v9963	Levent Bolelli	4295	8	13	1
+839	v920	Ziming Zhuang	4467	7	19	1
+840	v1235	Constantinos Costa	5084	6	11	1
+841	v6086	Kenneth Wai-Ting Leung	5357	6	28	1
+842	v7143	Qingzhao Tan	5418	6	13	3
+843	v7338	Qiankun Zhao	5434	6	26	1
+844	v4044	Xingjie Liu	6009	5	15	1
+845	v6377	Yi-Cheng Chen	6187	5	69	1
+846	v317	Yu-Ling Hsueh	6622	4	19	1
+847	v11035	Philip A. Bernstein	42	71	192	3
+848	v11659	Donald Kossmann	54	68	192	1
+849	v10965	Elisa Bertino	58	67	936	2
+850	v10881	Karl Aberer	203	45	420	1
+851	v10871	Gustavo Alonso	265	41	235	2
+852	v12410	Hans-Jörg Schek	288	40	174	4
+853	v5396	Katsumi Tanaka	324	38	411	3
+854	v7743	Gang Chen 0001	362	36	172	1
+855	v11571	Ihab F. Ilyas	373	36	97	3
+856	v12001	Renée J. Miller	633	29	128	1
+857	v3887	Fan Yang	718	27	491	3
+858	v11816	John C. S. Lui	757	27	318	1
+859	v12653	Patrick Valduriez	825	26	293	1
+860	v10114	Feng Li	1011	23	370	1
+861	v12086	Mario A. Nascimento	1031	23	131	1
+862	v3974	Sai Wu	1061	22	57	2
+863	v11876	Tok Wang Ling	1230	21	236	4
+864	v5184	Lukasz Golab	1281	20	76	1
+865	v9142	Dimitrios Georgakopoulos	1420	19	141	1
+866	v123	Ashraf Aboulnaga	1475	18	76	4
+867	v12110	Wilfred Ng	1909	16	138	8
+868	v12578	Jens Teubner	2320	14	68	7
+869	v6346	Esther Pacitti	2434	13	93	9
+870	v3888	Olaf Hartig	2941	11	67	1
+871	v9109	Da Yan	3389	10	32	1
+872	v11185	Asuman Dogac	3851	9	98	1
+873	v8935	Eric Lo	4253	8	61	1
+874	v11231	Khuzaima Daudjee	4931	7	36	2
+875	v9800	Patrick Kling	5612	6	5	1
+876	v12398	Duane Szafron	6583	5	127	1
+877	v4649	Günes Aluç	7031	4	9	1
+878	v2385	Sule Gündüz Ögüdücü	9375	2	44	2
+879	v10861	Divyakant Agrawal	84	59	382	1
+880	v12524	Subhash Suri	245	43	272	1
+881	v10850	Amr El Abbadi	430	34	338	2
+882	v1946	Chengkai Li	1359	19	62	1
+883	v9767	Yi Chen 0001	1689	17	123	1
+884	v11288	Ramez Elmasri	2284	14	144	1
+885	v4223	Yinghui Wu	2391	13	49	1
+886	v11167	Tao Cheng	2804	12	107	2
+887	v4747	Yu Su	2965	11	99	2
+888	v1176	Shengqi Yang	3222	10	45	1
+889	v7383	Shu Tao	3349	10	42	1
+890	v11970	Louise E. Moser	6559	5	187	1
+891	v1260	Fangqiu Han	6711	4	11	3
+892	v7120	Gengxin Miao	7262	4	11	2
+893	v8564	Xin Liu	116	53	585	3
+894	v11178	William W. Cohen	749	27	257	1
+895	v3609	Qian Sun	1368	19	82	2
+896	v468	Meng Zhang	1609	17	301	1
+897	v354	Xian Wu	1752	16	74	3
+898	v3930	Wenke Lee	2656	12	163	1
+899	v3370	Zhenguo Li	2927	11	37	2
+900	v9040	Ian Davidson	3076	11	101	1
+901	v6425	Yadong Mu	3328	10	51	1
+902	v8697	Bianca Zadrozny	3382	10	48	1
+903	v10037	Xiang Zhang 0001	3816	9	45	1
+904	v6521	Yusheng Xie	4699	7	25	1
+905	v7927	Ke Wu	5486	6	83	2
+906	v12766	Yalin Wang	5763	6	109	1
+907	v2350	Cheng He	6809	4	35	1
+908	v2225	Jingchao Ni	7932	3	6	1
+909	v3156	Philip K. Chan	8060	3	44	3
+910	v1322	Jie Yang	970	23	332	1
+911	v5532	Ling Wang	1176	21	375	1
+912	v5958	Yang Zhao	2430	13	271	2
+913	v6540	Chong Sun	4703	7	24	2
+914	v8887	Zhe Zhu	8705	3	19	2
+915	v9508	Jihang Ye	8783	3	6	2
+916	v2041	Tianyi Lin	10781	1	13	1
+917	v2046	Xiao Wen	10783	1	7	2
+918	v3391	Yu Rong	10985	1	10	3
+919	v7422	Wei Li	156	49	947	2
+920	v11788	Ee-Peng Lim	375	36	388	4
+921	v11554	Steven C. H. Hoi	552	31	208	4
+922	v5881	Lu Wang	785	26	361	2
+923	v10017	Yin Zhang	933	24	346	1
+924	v5853	Cheng Yang	1289	20	127	3
+925	v8646	Feng Liu	1302	20	576	1
+926	v12814	Changshui Zhang	1350	20	310	6
+927	v4440	Olivier Temam	1503	18	110	1
+928	v1964	Ning Li	1959	15	391	2
+929	v9396	Shuiwang Ji	2053	15	70	1
+930	v3611	Xin Yao 0001	2931	11	521	1
+931	v5667	Liwei Wang 0001	2990	11	65	2
+932	v5976	Ke Tang	3685	9	167	4
+933	v9622	Tu Bao Ho	3806	9	147	1
+934	v10412	Jun Liu 0003	3827	9	63	1
+935	v2388	Jufu Feng	4517	7	57	2
+936	v4471	Kai Ming Ting	6043	5	102	3
+937	v6658	Yu-Feng Li	6205	5	26	3
+938	v12801	Xiaowei Ying	9011	3	19	2
+939	v1989	Yu-Yin Sun	9300	2	4	2
+940	v4544	Wei Wang 0028	11122	1	13	3
+941	v12796	Shipeng Yu	890	25	62	2
+942	v7661	Goce Trajcevski	1093	22	118	1
+943	v12527	Thomas Seidl 0001	1150	22	279	2
+944	v11708	Peer Kröger	1570	18	124	1
+945	v12788	Kai Yu 0001	1744	17	79	3
+946	v11441	Ralf Hartmut Güting	1889	16	127	1
+947	v8585	Kostas Stefanidis	2037	15	61	2
+948	v3716	Arthur Zimek	2174	14	76	1
+949	v12612	Volker Tresp	2321	14	149	3
+950	v8689	Matthias Schubert	2750	12	70	2
+951	v6089	Michael E. Houle	3000	11	83	4
+952	v10523	Zhao Xu	3421	10	97	1
+953	v7086	Erich Schubert	3726	9	36	1
+954	v7360	Thomas Bernecker	3735	9	29	1
+955	v12082	Kjetil Nørvåg	4375	8	153	1
+956	v1790	Gregor Jossé	4498	7	18	2
+957	v10864	Elke Achtert	4915	7	24	1
+958	v12673	Vijay K. Vaishnavi	5004	7	65	2
+959	v2171	Benjamin Bustos	6795	4	85	1
+960	v9218	Maximilian Nickel	7448	4	23	1
+961	v11063	Alok N. Choudhary	165	49	454	5
+962	v5605	Atish Das Sarma	656	28	69	1
+963	v12443	L. Venkata Subramaniam	1466	19	93	2
+964	v12411	Hari Sundaram	1732	17	120	1
+965	v5769	Ullas Nambiar	2000	15	40	1
+966	v6474	Ankit Agrawal	2438	13	107	3
+967	v7391	Guoliang Xue	3039	11	267	1
+968	v12130	Mehmet A. Orgun	3482	10	212	2
+969	v3152	Rudy Setiono	4546	7	88	3
+970	v4234	Manoranjan Dash	4595	7	61	3
+971	v8531	Zheng Zhao	4804	7	99	1
+972	v8726	Huiji Gao	5535	6	35	1
+973	v12733	Louis Wehenkel	5758	6	88	2
+974	v5099	Baohua Gu	8258	3	8	1
+975	v9056	Feifang Hu	8728	3	3	2
+976	v6327	Surendra K. Singhi	11313	1	2	1
+977	v9280	Wilson X. Wen	11614	1	13	2
+978	v10935	Avrim Blum	61	66	216	3
+979	v12691	David P. Woodruff	86	59	199	3
+980	v11224	James Demmel	236	43	189	8
+981	v12504	Sham M. Kakade	257	42	148	2
+982	v3434	Alekh Agarwal	524	31	82	6
+983	v11490	Daniel J. Hsu	624	29	95	3
+984	v12655	Richard W. Vuduc	700	28	90	1
+985	v8993	Gregory Valiant	929	24	66	1
+986	v6583	Kamalika Chaudhuri	1087	22	88	2
+987	v12272	James M. Rehg	1917	16	175	1
+988	v4465	Huan Xu	2956	11	138	2
+989	v9775	Yingyu Liang	3091	11	45	1
+990	v10082	Nikos Karampatziakis	3098	11	28	1
+991	v311	Fuxin Li	5032	6	42	1
+992	v3679	Byron Boots	5229	6	57	1
+993	v10165	Julien Epps	6458	5	124	1
+994	v4287	Hua Wang	389	35	584	1
+995	v10734	Ning An	3119	11	61	2
+996	v5870	Lili Jiang	4663	7	46	1
+997	v5860	Lin Guo	5336	6	48	2
+998	v6332	Jian Zhan	5369	6	13	3
+999	v6621	Lian Li 0001	5383	6	21	1
+1000	v4445	Shengyuan Wang	6039	5	18	3
+1001	v5499	Zhiping Zeng	8306	3	9	5
+1002	v10344	Yukai He	10378	2	4	2
+1003	v7775	Jianhua Yin	11471	1	18	1
+1004	v4307	Yi Yang	101	56	633	2
+1005	v9507	Jing He	800	26	281	3
+1006	v7773	Jing Jiang	856	25	227	2
+1007	v8990	Feiping Nie	928	24	260	1
+1008	v5004	Lusheng Wang	1645	17	219	2
+1009	v2161	Ruwei Dai	3987	8	52	1
+1010	v7378	Ting Guo	8535	3	21	1
+1011	v11567	Wynne Hsu	2291	14	165	2
+1012	v1182	Guang Qiu	2351	13	24	9
+1013	v6979	Nitin Jindal	9966	2	12	1
+1014	v5233	Lan Yi	11188	1	9	1
+1015	v6762	Kaidi Zhao	11358	1	7	1
+1016	v6379	Zhaohui Wu	262	41	427	1
+1017	v11618	Thorsten Joachims	1128	22	158	1
+1018	v9817	Chi-Hung Chi	2058	15	190	2
+1019	v6380	Wei Cao	4695	7	120	1
+1020	v4432	Xiangfu Meng	7014	4	30	1
+1021	v8579	Éric Gaussier	7389	4	152	2
+1022	v12091	Ngoc Thanh Nguyen	8977	3	290	1
+1023	v6237	Zhong She	9878	2	5	1
