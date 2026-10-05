@@ -1,0 +1,98 @@
+m: 20
+Instance: 1
+Algorithm: SPEA2
+Iteration: 1000
+Population Size: 100
+RUN 1:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+2.1e+04 ; 1.376e-24 ; True ; 
+3.4e+04 ; 1.254e-22 ; True ; 
+4.4e+04 ; 7.415e-22 ; True ; 
+5.5e+04 ; 4.792e-21 ; True ; 
+
+
+RUN 2:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+2e+04 ; 4.177e-25 ; True ; 
+3.6e+04 ; 2.186e-22 ; True ; 
+4.2e+04 ; 6.268e-22 ; True ; 
+
+
+RUN 3:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+2e+04 ; 4.177e-25 ; True ; 
+3.3e+04 ; 5.385e-23 ; True ; 
+5.1e+04 ; 1.58e-21 ; True ; 
+
+
+RUN 4:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+3.6e+04 ; 2.186e-22 ; True ; 
+4.4e+04 ; 8.743e-22 ; True ; 
+4.5e+04 ; 1.05e-21 ; True ; 
+
+
+RUN 5:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+1.9e+04 ; 2.17e-25 ; True ; 
+2e+04 ; 4.177e-25 ; True ; 
+3.3e+04 ; 5.993e-23 ; True ; 
+3.6e+04 ; 2.186e-22 ; True ; 
+
+
+RUN 6:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+2.1e+04 ; 1.376e-24 ; True ; 
+2.6e+04 ; 9.009e-24 ; True ; 
+
+
+RUN 7:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+3.3e+04 ; 5.385e-23 ; True ; 
+3.3e+04 ; 5.993e-23 ; True ; 
+4.2e+04 ; 6.268e-22 ; True ; 
+
+
+RUN 8:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+5.4e+04 ; 3.563e-21 ; True ; 
+7.5e+04 ; 3.408e-20 ; True ; 
+8.7e+04 ; 7.726e-20 ; True ; 
+
+
+RUN 9:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+1.9e+04 ; 3.517e-25 ; True ; 
+2.1e+04 ; 1.376e-24 ; True ; 
+2.7e+04 ; 1.875e-23 ; True ; 
+3.6e+04 ; 2.186e-22 ; True ; 
+
+
+RUN 10:
+Optimum Distance: 0
+
+Distance; Skill Score; IsValid
+2e+04 ; 6.55e-25 ; True ; 
+2.1e+04 ; 1.376e-24 ; True ; 
+5.4e+04 ; 3.705e-21 ; True ; 
+5.5e+04 ; 4.792e-21 ; True ; 
+
+

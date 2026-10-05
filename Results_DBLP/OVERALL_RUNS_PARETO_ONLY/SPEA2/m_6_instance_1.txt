@@ -1,0 +1,11 @@
+M: 6
+Instance: 1
+Algorithm: SPEA2
+Iteration: 300
+Population Size: 100
+Distance; Skill Score; IsValid
+2001; 1.467e-05; True; 
+3003; 2.821e-05; True; 
+5001; 4.556e-05; True; 
+7003; 8.482e-05; True; 
+9001; 0.0001047; True; 
