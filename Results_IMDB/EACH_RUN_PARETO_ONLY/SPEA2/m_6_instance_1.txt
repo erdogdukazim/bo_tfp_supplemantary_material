@@ -1,0 +1,100 @@
+Iteration: 300
+ Population Size: 1000
+RUN 1:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+20.61 ; 1.383e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+31.61 ; 4.562e-05 ; True ; 
+46.97 ; 9.378e-05 ; True ; 
+47.87 ; 9.418e-05 ; True ; 
+
+
+RUN 2:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+19.61 ; 1.218e-05 ; True ; 
+19.78 ; 1.31e-05 ; True ; 
+20.61 ; 1.383e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+31.61 ; 4.562e-05 ; True ; 
+46.97 ; 9.378e-05 ; True ; 
+
+
+RUN 3:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+8.886 ; 2.484e-06 ; True ; 
+19.61 ; 1.218e-05 ; True ; 
+19.78 ; 1.31e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+
+
+RUN 4:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+8.886 ; 2.484e-06 ; True ; 
+19.61 ; 1.218e-05 ; True ; 
+20.61 ; 1.383e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+31.61 ; 4.562e-05 ; True ; 
+
+
+RUN 5:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+8.886 ; 2.484e-06 ; True ; 
+19.61 ; 1.218e-05 ; True ; 
+19.78 ; 1.31e-05 ; True ; 
+20.61 ; 1.383e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+
+
+RUN 6:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+8.886 ; 2.484e-06 ; True ; 
+19.61 ; 1.218e-05 ; True ; 
+19.78 ; 1.31e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+31.61 ; 4.562e-05 ; True ; 
+
+
+RUN 7:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+15.16 ; 4.182e-06 ; True ; 
+20.61 ; 1.383e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+44.36 ; 8.874e-05 ; True ; 
+58.83 ; 0.0001302 ; True ; 
+63.48 ; 0.0001549 ; True ; 
+
+
+RUN 8:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+8.886 ; 2.484e-06 ; True ; 
+19.61 ; 1.218e-05 ; True ; 
+19.78 ; 1.31e-05 ; True ; 
+20.61 ; 1.383e-05 ; True ; 
+20.67 ; 1.526e-05 ; True ; 
+47.87 ; 9.418e-05 ; True ; 
+
+
+RUN 9:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+8.886 ; 2.484e-06 ; True ; 
+19.61 ; 1.218e-05 ; True ; 
+20.61 ; 1.383e-05 ; True ; 
+
+
+RUN 10:
+Optimum Distance: 8.886
+Distance; Skill Score; IsValid
+11.85 ; 4.087e-06 ; True ; 
+19.61 ; 1.218e-05 ; True ; 
+19.78 ; 1.31e-05 ; True ; 
+
+
