@@ -1,0 +1,98 @@
+m: 6
+Instance: 1
+Algorithm: SPEA2
+Iteration: 300
+Population Size: 100
+RUN 1:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 6 27 87  ; 1 1 1 1 1 1 
+3003 ; 2.674e-05 ; True ; 6 27 38 87  ; 1 1 1 1 1 2 
+5001 ; 4.556e-05 ; True ; 6 27 79 87  ; 1 2 1 2 1 1 
+9001 ; 0.0001047 ; True ; 6 27 35 79 87  ; 1 3 1 2 2 1 
+
+RUN 2:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 6 27 87  ; 1 1 1 1 1 1 
+9001 ; 0.0001047 ; True ; 6 27 35 79 87  ; 1 3 1 2 2 1 
+
+RUN 3:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 27 78 87  ; 1 1 1 1 1 1 
+9001 ; 0.0001047 ; True ; 6 27 79 87 99  ; 1 3 1 2 2 1 
+
+RUN 4:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 6 27 87  ; 1 1 1 1 1 1 
+3003 ; 2.821e-05 ; True ; 27 79 87 106  ; 1 1 1 2 1 1 
+9001 ; 0.0001047 ; True ; 6 27 35 79 87  ; 1 3 1 2 2 1 
+
+RUN 5:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 6 27 87  ; 1 1 1 1 1 1 
+
+RUN 6:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 27 78 87  ; 1 1 1 1 1 1 
+5001 ; 4.556e-05 ; True ; 6 27 79 87  ; 1 2 1 2 1 1 
+
+RUN 7:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 27 78 87  ; 1 1 1 1 1 1 
+3003 ; 2.674e-05 ; True ; 6 27 38 87  ; 1 1 1 1 1 2 
+
+RUN 8:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 6 27 87  ; 1 1 1 1 1 1 
+3003 ; 2.674e-05 ; True ; 6 27 38 87  ; 1 1 1 1 1 2 
+
+RUN 9:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 27 78 87  ; 1 1 1 1 1 1 
+3003 ; 2.674e-05 ; True ; 6 27 38 87  ; 1 1 1 1 1 2 
+
+RUN 10:
+Optimum Distance: 0
+
+Optimal Team: 
+Required Skills: 11 12 15 23 55 56 
+Distance; Skill Score; isValid; Team; Skill Counts
+2001 ; 1.467e-05 ; True ; 6 27 87  ; 1 1 1 1 1 1 
+3003 ; 2.821e-05 ; True ; 27 79 87 106  ; 1 1 1 2 1 1 
+7003 ; 8.482e-05 ; True ; 6 27 79 87 106  ; 1 2 2 2 1 1 
+
